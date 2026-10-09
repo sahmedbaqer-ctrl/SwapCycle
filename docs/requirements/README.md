@@ -15,4 +15,6 @@ This folder contains the preliminary requirements for SwapCycle.
 - Two-way and three-way exchanges
 - Exchange agreement and handover tracking
 
-
+Each user story should describe the user, their goal, and the
+benefit. Acceptance criteria should explain how the team will
+verify that the story is satisfied.
