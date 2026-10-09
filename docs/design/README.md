@@ -1,21 +1,12 @@
-# Initial Design Documentation
+# Initial Design
 
-This folder contains the initial system design for SwapCycle.
+This folder contains the SwapCycle system architecture
+diagram and wireframes for the main screens.
 
-## Documents to Include
-- High-level system architecture diagram
-- Wireframes for the main user interface screens
-
-## Proposed Main Screens
-- Sign up and log in
+## Planned Screens
+- Sign up and login
 - Browse and search books
 - Book details
-- Add or edit a book listing
+- Add a book listing
 - Wish list
-- Exchange offers and matching
-- Exchange agreement and handover status
-- Reader profile
-
-The architecture diagram should show the main system components
-and how they communicate. Wireframes should show screen layout,
-navigation, and the main user actions.
+- Exchange offers and status
