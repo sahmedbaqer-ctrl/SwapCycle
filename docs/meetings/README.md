@@ -23,4 +23,4 @@ improvements for the next sprint.
 Use dates to keep records in chronological order:
 YYYY-MM-DD-meeting-type.md
 
-All records must describe meetings that actually took place.
+
