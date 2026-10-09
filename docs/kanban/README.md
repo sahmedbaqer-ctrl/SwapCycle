@@ -17,4 +17,5 @@ progression of the team's board during Sprint 1.
 Board link: [Insert board link]
 Tool used: [Jira, Trello, or another tool]
 
-
+Screenshots should clearly show task titles and their status.
+The team should update the board regularly as work progresses.
