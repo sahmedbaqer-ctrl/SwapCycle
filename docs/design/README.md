@@ -16,6 +16,4 @@ This folder contains the initial system design for SwapCycle.
 - Exchange agreement and handover status
 - Reader profile
 
-The architecture diagram should show the main system components
-and how they communicate. Wireframes should show screen layout,
-navigation, and the main user actions.
+
