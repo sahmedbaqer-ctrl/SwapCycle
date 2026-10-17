@@ -14,8 +14,8 @@ progression of the team's board during Sprint 1.
 - YYYY-MM-DD-sprint1-end.png
 
 ## Board Information
-Board link: [Insert board link]
-Tool used: [Jira, Trello, or another tool]
+Board link: https://swapcycle.atlassian.net (SwapCycle space → Board, project key SCRUM)
+Tool used: Jira (moved from a Kanban board in Meeting 4)
 
 Screenshots should clearly show task titles and their status.
 The team should update the board regularly as work progresses.
