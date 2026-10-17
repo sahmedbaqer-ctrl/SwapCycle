@@ -16,7 +16,7 @@ Fall 2026
 ## Main Features
 - Reader accounts and profiles
 - Book listings
-- Wish lists
+- Wish lists: adding books To wishlist, searching and filtering the wishlist and veiwing the wishlist.
 - Book search and filters
 - Two-way and three-way book exchanges
 
