@@ -24,7 +24,7 @@ Fall 2026
 - docs/requirements/: User stories and requirements
 - docs/design/: Architecture and wireframes
 - docs/meetings/: Agile meeting records
-- docs/kanban/: Board screenshots and physical board kit
+- docs/kanban/: Board screenshots
 - docs/sprint1/: Sprint 1 burndown, velocity and impediment log
 - src/: Application source code
 - tests/: Application tests

@@ -46,6 +46,3 @@ All 41 Sprint 1 tasks in Done (Jira export).
 | 0 | 0 | 0 | 41 |
 
 Full card list: [sprint1-board.md](sprint1-board.md). The images are rendered from the Jira exports so every card is visible; the live board scrolls. `2026-10-17-sprint1-board.png` is the original full-height export of the middle snapshot.
-
-## Physical board (from Sprint 2)
-The team is moving the board onto the classroom whiteboard. [physical-kanban-kit.pdf](physical-kanban-kit.pdf) contains the column headers and a printable card for every task and user story, colour-coded by feature. Dated photos of the physical board will be added here.
