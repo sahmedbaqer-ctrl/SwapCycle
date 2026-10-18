@@ -22,7 +22,7 @@ Scope jumped from 8 to 41 on 16 October when the requirement and diagram tasks w
 | Date | Impediment | Action taken | Status |
 |---|---|---|---|
 | 6 Oct | Sayed Mohammed absent from Meeting 2 | Briefed on agreed features before Meeting 3 | Resolved |
-| 11 Oct | Kanban board hard to keep current | Moved all tracking to Jira | Resolved |
+| 11 Oct | Whiteboard board hard to keep current between meetings | Moved all tracking to Jira | Resolved |
 | 13 Oct | Exchange stories not drafted | Deadline set for 15 Oct, rechecked at Meeting 7 | Resolved 15 Oct |
 | 13 Oct | Accounts stories created in a personal Jira site | Recreated in the SwapCycle project (SCRUM-44–46) | Resolved |
 | 17 Oct | FR/NFR tasks past their 17 Oct due date | Finished 17–18 Oct | Resolved |
