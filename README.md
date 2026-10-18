@@ -33,3 +33,14 @@ Fall 2026
 ## Sprint 1 Goal
 Establish the project repository, document initial requirements,
 prepare the initial design, and record our Agile workflow.
+
+## Working on this project
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the branch and pull-request workflow, commit message style and the team's Definition of Done.
+
+## Links
+- Jira board: https://swapcycle.atlassian.net (project SCRUM)
+- Requirements: [docs/requirements](docs/requirements)
+- Design: [docs/design](docs/design)
+- Meeting records: [docs/meetings](docs/meetings)
+- Kanban snapshots: [docs/kanban](docs/kanban)
+- Sprint 1 report: [docs/sprint1](docs/sprint1)
