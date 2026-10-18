@@ -22,14 +22,30 @@ The team should update the board regularly as work progresses.
 
 ## Sprint 1 Snapshots
 
-### 17 October 2026 – end of sprint
-![Jira board, 17 Oct 2026](2026-10-17-sprint1-board.png)
+### Beginning – 13 October 2026
+The 8 user-story tasks in To Do. **Reconstructed from Jira created/resolved dates**; no screenshot was taken that day.
+
+![Sprint 1 beginning](2026-10-13-sprint1-beginning.png)
+
+### Middle – 17 October 2026, 22:25
+User-story tasks done, functional requirements in progress, diagram tasks still to do (Jira export).
+
+![Sprint 1 middle](2026-10-17-sprint1-middle.png)
 
 | To Do | In Progress | In Review | Done |
 |---|---|---|---|
 | 25 | 7 | 1 | 8 |
 
-Full card list (all 41 sprint tasks and the 23 backlog user stories): [sprint1-board.md](sprint1-board.md).
-The image is rendered from the Jira export so every card is visible; the live board scrolls.
+### End – 18 October 2026
+All 41 Sprint 1 tasks in Done (Jira export).
 
-Beginning- and middle-of-sprint screenshots should be added from screenshots taken at the time.
+![Sprint 1 end](2026-10-18-sprint1-end.png)
+
+| To Do | In Progress | In Review | Done |
+|---|---|---|---|
+| 0 | 0 | 0 | 41 |
+
+Full card list: [sprint1-board.md](sprint1-board.md). The images are rendered from the Jira exports so every card is visible; the live board scrolls. `2026-10-17-sprint1-board.png` is the original full-height export of the middle snapshot.
+
+## Physical board (from Sprint 2)
+The team is moving the board onto the classroom whiteboard. [physical-kanban-kit.pdf](physical-kanban-kit.pdf) contains the column headers and a printable card for every task and user story, colour-coded by feature. Dated photos of the physical board will be added here.
