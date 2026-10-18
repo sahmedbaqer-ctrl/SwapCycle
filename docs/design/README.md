@@ -1,21 +1,32 @@
 # Initial Design Documentation
 
-This folder contains the initial system design for SwapCycle.
+Initial system design for SwapCycle, produced in Sprint 1.
 
-## Documents to Include
-- High-level system architecture diagram
-- Wireframes for the main user interface screens
+## High-level architecture
+Three-tier web application: a browser client, an application server with one module per feature, and a PostgreSQL database. Supporting services handle file storage, email, book metadata and notifications.
 
-## Proposed Main Screens
-- Sign up and log in
-- Browse and search books
-- Book details
-- Add or edit a book listing
-- Wish list
-- Exchange offers and matching
-- Exchange agreement and handover status
-- Reader profile
+![Architecture](images/architecture.png)
 
-The architecture diagram should show the main system components
-and how they communicate. Wireframes should show screen layout,
-navigation, and the main user actions.
+## Wireframes (Figma)
+Main screens, by Sayed Ali, Sayed Ahmed and Yousif.
+
+| Sign in | Home (book listings) | Account / profile | Wishlist |
+|---|---|---|---|
+| ![](images/wireframe-sign-in.png) | ![](images/wireframe-home.png) | ![](images/wireframe-account.png) | ![](images/wireframe-wishlist.png) |
+
+## Use case view
+By Sayed Ali and Sayed Ahmed (Jira SCRUM-64 to SCRUM-71).
+
+![Use case diagram](images/use-case-diagram.png)
+
+## Information view – class diagram
+By Kareem and Amir (Jira SCRUM-72 to SCRUM-79).
+
+![Class diagram](images/class-diagram.png)
+
+## Behavior view – state diagrams
+By Sayed Ahmed and Sayed Mohammed (Jira SCRUM-80 to SCRUM-87).
+
+| Exchange request | User account |
+|---|---|
+| ![](images/behavior-diagram-exchange.png) | ![](images/behavior-diagram-user-account.png) |
