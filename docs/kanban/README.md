@@ -15,13 +15,13 @@ progression of the team's board during Sprint 1.
 
 ## Board Information
 Board link: https://swapcycle.atlassian.net (SwapCycle space → Board, project key SCRUM)
-Tool used: Jira (moved from a Kanban board in Meeting 4)
+Tool used: Jira, set up by Sayed Ali after the team moved from the whiteboard in Meeting 4
 
 Screenshots should clearly show task titles and their status.
 The team should update the board regularly as work progresses.
 
 ## Whiteboard (physical board)
-Before moving to Jira the team planned on the classroom whiteboard. Photos from the meetings:
+Before moving to Jira the team planned on the classroom whiteboard. Sayed Ali drew the board during the meetings. Photos:
 
 | Meeting 3 – 8 Oct | Meeting 4 – 11 Oct | Meeting 5 – 13 Oct |
 |---|---|---|
