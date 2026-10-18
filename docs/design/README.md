@@ -8,7 +8,7 @@ Three-tier web application: a browser client, an application server with one mod
 ![Architecture](images/architecture.png)
 
 ## Wireframes (Figma)
-Main screens, by Sayed Ali, Sayed Ahmed and Yousif.
+Main screens, by Sayed Ali, Sayed Ahmed and Yousef.
 
 | Sign in | Home (book listings) | Account / profile | Wishlist |
 |---|---|---|---|
@@ -25,7 +25,7 @@ By Kareem and Amir (Jira SCRUM-72 to SCRUM-79).
 ![Class diagram](images/class-diagram.png)
 
 ## Behavior view – state diagrams
-By Sayed Ahmed and Sayed Mohammed (Jira SCRUM-80 to SCRUM-87).
+By Sayed Ahmed and Sayed Mohd (Jira SCRUM-80 to SCRUM-87).
 
 | Exchange request | User account |
 |---|---|

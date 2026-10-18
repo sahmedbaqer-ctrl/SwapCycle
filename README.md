@@ -11,7 +11,7 @@ Fall 2026
 
 ## Team Members
 - Scrum Master: Sayed Ali
-- Development Team: Amir, Kareem, Sayed Ahmed, Sayed Mohammed, Yousef
+- Development Team: Amir, Kareem, Sayed Ahmed, Sayed Mohd, Yousef
 
 ## Main Features
 - Accounts: Creating and managing user accounts, logging in and out, editing profile information, and viewing other users' profiles.

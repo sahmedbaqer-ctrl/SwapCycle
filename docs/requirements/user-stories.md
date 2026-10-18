@@ -12,7 +12,7 @@ Epic SCRUM-16 · Owner: Sayed Ahmed
 | SCRUM-46 | As a user, I need to be able to control what is visible to other swappers on my profile so that they can decide whether they can trust me or not without disclosing any personal information. |
 
 ## Completion Confirmation
-Epic SCRUM-20 · Owner: Sayed Mohammed
+Epic SCRUM-20 · Owner: Sayed Mohd
 
 | Key | User story |
 |---|---|
@@ -21,7 +21,7 @@ Epic SCRUM-20 · Owner: Sayed Mohammed
 | SCRUM-54 | As a user, I would have to report a problem rather than confirming completion to handle any problems like getting an incorrect book or even not getting it at all. |
 
 ## Direct Exchange
-Epic SCRUM-18 · Owner: Sayed Mohammed
+Epic SCRUM-18 · Owner: Sayed Mohd
 
 | Key | User story |
 |---|---|
@@ -39,7 +39,7 @@ Epic SCRUM-23 · Owner: Kareem
 | SCRUM-48 | As a user, I want the option to report another user in case they ever violate the rules and regulations of the exchange. |
 
 ## In-App Communication & Meeting Arrangement
-Epic SCRUM-22 · Owner: Yousif
+Epic SCRUM-22 · Owner: Yousef
 
 | Key | User story |
 |---|---|
@@ -57,7 +57,7 @@ Epic SCRUM-15 · Owner: Sayed Ali
 | SCRUM-26 | As a user, I want to be able to select a book and choose whether I own it or I wish-list it. |
 
 ## Search & Filter
-Epic SCRUM-21 · Owner: Yousif
+Epic SCRUM-21 · Owner: Yousef
 
 | Key | User story |
 |---|---|

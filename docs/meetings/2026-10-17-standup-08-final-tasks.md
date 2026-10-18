@@ -21,7 +21,7 @@
 - None recorded.
 
 ## Follow-up actions
-- Sayed Ali, Sayed Ahmed and Yousif to finish the Figma designs by 18 October.
-- Sayed Mohammed to finish the behavior view diagram by 18 October.
+- Sayed Ali, Sayed Ahmed and Yousef to finish the Figma designs by 18 October.
+- Sayed Mohd to finish the behavior view diagram by 18 October.
 - All members to finalise and cross-check their work by 18 October.
 - 18 October will be the final Sprint 1 meeting.

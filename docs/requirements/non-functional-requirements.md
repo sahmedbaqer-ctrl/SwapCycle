@@ -1,6 +1,6 @@
 # Non-Functional Requirements
 
-Written by Kareem, Amir and Yousif (Jira SCRUM-63).
+Written by Kareem, Amir and Yousef (Jira SCRUM-63).
 
 ## 1. Performance
 

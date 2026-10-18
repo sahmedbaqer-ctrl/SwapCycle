@@ -97,17 +97,17 @@ Stories sit in the backlog under their feature epic.
 
 | Key | Story | Owner |
 |---|---|---|
-| SCRUM-49 | As a user, I need to be able to request a direct exchange for a book so that I can arrange a swap with its owner. | Sayed Husain |
-| SCRUM-50 | As a user, I need to be able to propose a scheduled time and meeting place for a direct exchange so that both swappers can agree on when and where to trade books. | Sayed Husain |
-| SCRUM-51 | As a user, I need to be able to review and accept or reject an exchange offer. To ensure that the proposed offer details works for me | Sayed Husain |
+| SCRUM-49 | As a user, I need to be able to request a direct exchange for a book so that I can arrange a swap with its owner. | Sayed Mohd |
+| SCRUM-50 | As a user, I need to be able to propose a scheduled time and meeting place for a direct exchange so that both swappers can agree on when and where to trade books. | Sayed Mohd |
+| SCRUM-51 | As a user, I need to be able to review and accept or reject an exchange offer. To ensure that the proposed offer details works for me | Sayed Mohd |
 
 ### Completion Confirmation (3)
 
 | Key | Story | Owner |
 |---|---|---|
-| SCRUM-52 | As a user, I need to be able to mark an exchange as complete after handing over my book so that the app records that I have completed my part of the swap. | Sayed Husain |
-| SCRUM-53 | As a user, I need to be able to confirm that I received the book so that the app knows both swappers completed the exchange. | Sayed Husain |
-| SCRUM-54 | As a user, I would have to report a problem rather than confirming completion to handle any problems like getting an incorrect book or even not getting it at all. | Sayed Husain |
+| SCRUM-52 | As a user, I need to be able to mark an exchange as complete after handing over my book so that the app records that I have completed my part of the swap. | Sayed Mohd |
+| SCRUM-53 | As a user, I need to be able to confirm that I received the book so that the app knows both swappers completed the exchange. | Sayed Mohd |
+| SCRUM-54 | As a user, I would have to report a problem rather than confirming completion to handle any problems like getting an incorrect book or even not getting it at all. | Sayed Mohd |
 
 ### Search & Filter (3)
 
