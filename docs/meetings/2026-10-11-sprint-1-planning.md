@@ -5,7 +5,7 @@
 | **Sprint** | Sprint 1, 1–18 October 2026 |
 | **Planned in** | Meetings 2–4 (6, 8 and 11 October); requirements and diagram tasks assigned in Meeting 6 (13 October) |
 | **Scrum Master** | Sayed Ali |
-| **Attendees** | Amir, Kareem, Sayed Ahmed, Sayed Ali, Sayed Mohd, Yousef |
+| **Attendees** | Amir, Kareem, Sayed Ahmed, Sayed Ali, Sayed Mohammed, Yousef |
 
 ## Sprint goal
 Complete the requirements analysis and initial design for SwapCycle: user stories, functional and non-functional requirements, and three design diagrams.
@@ -18,7 +18,7 @@ Complete the requirements analysis and initial design for SwapCycle: user storie
 | Amir | Meeting minutes | Wishlists |
 | Kareem | Kanban / Jira board | Feedback & rating |
 | Sayed Ahmed | GitHub repository (created and maintains it) | Account; Confirmation |
-| Sayed Mohd | Feature owner | Exchange; Confirmation |
+| Sayed Mohammed | Feature owner | Exchange; Confirmation |
 | Yousef | Required documents | Search & filter; in-app communication; meeting arrangement |
 
 ## Selected user stories
@@ -28,7 +28,7 @@ Each core feature is an epic. Its owner writes 3 user stories in the format *As 
 |---|---|---|
 | Account | Sayed Ahmed | 3 |
 | Wishlists | Amir | 3 |
-| Exchange | Sayed Mohd | 3 |
+| Exchange | Sayed Mohammed | 3 |
 | Confirmation | Sayed Ahmed | 3 |
 | Physical book listing | Sayed Ali | 3 |
 | Search & filter | Yousef | 3 |
@@ -43,12 +43,12 @@ Jira workflow: Backlog → Flag → Story → linked to its epic. Each member up
 |---|---|---|
 | Meeting minutes | Amir | Meeting 3 |
 | Kanban board (moved to Jira) | Kareem | Meeting 3 |
-| GitHub repository | Sayed Ahmed, Sayed Mohd | Meeting 3 |
+| GitHub repository | Sayed Ahmed, Sayed Mohammed | Meeting 3 |
 | Required documents | Yousef, Sayed Ali | Meeting 3 |
 | Initial design | Whole team | Meeting 3 |
 | User stories (3 per feature) | Each feature owner | Meeting 4 |
-| Functional requirements | Sayed Ali, Yousef, Sayed Mohd | Meeting 6 |
+| Functional requirements | Sayed Ali, Yousef, Sayed Mohammed | Meeting 6 |
 | Non-functional requirements | Kareem, Amir, Yousef | Meeting 6 |
 | Use case diagram | Sayed Ali, Sayed Ahmed | Meeting 6 |
 | Information view diagram | Kareem, Amir | Meeting 6 |
-| Behavior view diagram | Sayed Ahmed, Sayed Mohd | Meeting 6 |
+| Behavior view diagram | Sayed Ahmed, Sayed Mohammed | Meeting 6 |

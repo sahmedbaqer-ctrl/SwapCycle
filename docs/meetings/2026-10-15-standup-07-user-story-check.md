@@ -16,8 +16,8 @@
 - Continue requirements and diagram tasks.
 
 ## Blockers
-- Sayed Mohd's Exchange stories still in progress.
+- Sayed Mohammed's Exchange stories still in progress.
 
 ## Follow-up actions
-- Sayed Mohd to complete and upload the Exchange stories to Jira by end of day.
+- Sayed Mohammed to complete and upload the Exchange stories to Jira by end of day.
 - All members to continue their requirements and diagram tasks.

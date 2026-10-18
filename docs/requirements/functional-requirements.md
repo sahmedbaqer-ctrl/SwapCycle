@@ -1,6 +1,6 @@
 # Functional Requirements
 
-Written by Sayed Ali, Yousef and Sayed Mohd (Jira SCRUM-55 to SCRUM-62). Each feature links to its Jira epic and user stories.
+Written by Sayed Ali, Yousef and Sayed Mohammed (Jira SCRUM-55 to SCRUM-62). Each feature links to its Jira epic and user stories.
 
 ## 1. Accounts
 Epic SCRUM-16 · Stories SCRUM-44, SCRUM-45, SCRUM-46 · Feature owner: Sayed Ahmed
@@ -19,7 +19,7 @@ Epic SCRUM-16 · Stories SCRUM-44, SCRUM-45, SCRUM-46 · Feature owner: Sayed Ah
 - **1.12** The system shall allow account deletion after password confirmation, removing book listings, canceling exchanges, and notifying affected users.
 
 ## 2. Completion Confirmation
-Epic SCRUM-20 · Stories SCRUM-52, SCRUM-53, SCRUM-54 · Feature owner: Sayed Mohd
+Epic SCRUM-20 · Stories SCRUM-52, SCRUM-53, SCRUM-54 · Feature owner: Sayed Mohammed
 
 - **2.1** The system shall allow users to mark their part of an exchange as completed.
 - **2.2** The system shall record the date and time when a user marks their part as completed.
@@ -35,7 +35,7 @@ Epic SCRUM-20 · Stories SCRUM-52, SCRUM-53, SCRUM-54 · Feature owner: Sayed Mo
 - **2.12** The system shall update the exchange status to indicate that a problem has been reported.
 
 ## 3. Direct Exchange
-Epic SCRUM-18 · Stories SCRUM-49, SCRUM-50, SCRUM-51 · Feature owner: Sayed Mohd
+Epic SCRUM-18 · Stories SCRUM-49, SCRUM-50, SCRUM-51 · Feature owner: Sayed Mohammed
 
 - **3.1** The system shall allow users to send direct exchange requests to book owners.
 - **3.2** The system shall allow users to select a book they own to offer in exchange.

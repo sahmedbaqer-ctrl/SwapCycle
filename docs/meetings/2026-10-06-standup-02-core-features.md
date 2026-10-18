@@ -6,7 +6,7 @@
 | **Date** | Tuesday, 6 October 2026 |
 | **Location** | Library |
 | **Attendees** | Amir, Kareem, Sayed Ahmed, Sayed Ali, Yousef |
-| **Absent / late** | Sayed Mohd (absent) |
+| **Absent / late** | Sayed Mohammed (absent) |
 
 **Objective:** Identify the core features of the book swap website.
 
@@ -18,7 +18,7 @@
 - Divide project responsibilities among the team.
 
 ## Blockers
-- Sayed Mohd absent; to be updated on the agreed features.
+- Sayed Mohammed absent; to be updated on the agreed features.
 
 ## Follow-up actions
 - Allocate roles at the next meeting.

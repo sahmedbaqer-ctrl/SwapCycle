@@ -25,7 +25,7 @@ By Kareem and Amir (Jira SCRUM-72 to SCRUM-79).
 ![Class diagram](images/class-diagram.png)
 
 ## Behavior view – state diagrams
-By Sayed Ahmed and Sayed Mohd (Jira SCRUM-80 to SCRUM-87).
+By Sayed Ahmed and Sayed Mohammed (Jira SCRUM-80 to SCRUM-87).
 
 | Exchange request | User account |
 |---|---|

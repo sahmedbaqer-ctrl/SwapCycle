@@ -10,11 +10,11 @@
 **Objective:** Assign the requirements document and design diagram tasks.
 
 ## Completed work
-- Functional requirements → Sayed Ali, Yousef, Sayed Mohd
+- Functional requirements → Sayed Ali, Yousef, Sayed Mohammed
 - Non-functional requirements → Kareem, Amir, Yousef
 - Use case diagram → Sayed Ali, Sayed Ahmed
 - Information view diagram → Kareem, Amir
-- Behavior view diagram → Sayed Ahmed, Sayed Mohd
+- Behavior view diagram → Sayed Ahmed, Sayed Mohammed
 
 ## Next planned work
 - Each member starts their assigned requirements or diagram task.
