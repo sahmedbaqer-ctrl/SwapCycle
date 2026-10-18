@@ -10,13 +10,13 @@ SWEN 360 — Software Design and Engineering
 Fall 2026
 
 ## Team Members
-- Scrum Master: 
+- Scrum Master: Sayed Ali
 - Development Team: 
 
 ## Main Features
 - Reader accounts and profiles
-- Book listings
-- Wish lists: adding books To wishlist, searching and filtering the wishlist and veiwing the wishlist.
+- Book listings: Listing physical books by Title, Author & Contributors,Genre, and Availability.
+- Wish lists: adding books To wishlist, searching and filtering the wishlist and viewing the wishlist.
 - Book search and filters
 - Two-way and three-way book exchanges
 
