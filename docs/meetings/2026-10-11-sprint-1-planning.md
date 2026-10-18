@@ -17,8 +17,8 @@ Complete the requirements analysis and initial design for SwapCycle: user storie
 | Sayed Ali | Scrum Master; required documents | Physical book listing |
 | Amir | Meeting minutes | Wishlists |
 | Kareem | Kanban / Jira board | Feedback & rating |
-| Sayed Ahmed | GitHub repository | Account; Confirmation |
-| Sayed Mohd | GitHub repository | Exchange |
+| Sayed Ahmed | GitHub repository (created and maintains it) | Account; Confirmation |
+| Sayed Mohd | Feature owner | Exchange; Confirmation |
 | Yousef | Required documents | Search & filter; in-app communication; meeting arrangement |
 
 ## Selected user stories
