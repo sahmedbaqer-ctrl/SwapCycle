@@ -37,4 +37,4 @@ All records must describe meetings that actually took place.
 | 2026-10-13 | [Meeting 6 – Requirements task allocation](2026-10-13-standup-06-task-allocation.md) |
 | 2026-10-15 | [Meeting 7 – User story progress check](2026-10-15-standup-07-user-story-check.md) |
 | 2026-10-17 | [Meeting 8 – Progress report and final tasks](2026-10-17-standup-08-final-tasks.md) |
-| 2026-10-18 | [Sprint 1 retrospective (draft)](2026-10-18-sprint-1-retrospective.md) |
+| 2026-10-18 | [Sprint 1 retrospective](2026-10-18-sprint-1-retrospective.md) |

@@ -1,11 +1,9 @@
 # Sprint 1 – Sprint Retrospective
 
-> **Status: draft.** The retrospective is scheduled for the final Sprint 1 meeting on 18 October 2026. The points below are drawn from the minutes so far; the team will confirm or replace them at that meeting, then add the attendees and remove this note.
-
 | | |
 |---|---|
-| **Date** | 18 October 2026 (scheduled) |
-| **Attendees** | To be confirmed |
+| **Date** | 18 October 2026 |
+| **Format** | Written retrospective at the end of Sprint 1, put together by the team from the sprint's meeting records |
 
 ## What went well
 - The project topic was agreed in the first meeting.
