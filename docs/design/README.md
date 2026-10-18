@@ -8,7 +8,7 @@ Three-tier web application: a browser client, an application server with one mod
 ![Architecture](images/architecture.png)
 
 ## Wireframes (Figma)
-Main screens, designed in Figma by Sayed Ahmed.
+Main screens, designed in Figma by Sayed Ahmed with help from Sayed Ali and Yousef.
 
 | Sign in | Home (book listings) | Account / profile | Wishlist |
 |---|---|---|---|
