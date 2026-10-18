@@ -17,6 +17,7 @@ Fall 2026
 - Reader accounts and profiles
 - Book listings: Listing physical books by Title, Author & Contributors,Genre, and Availability.
 - Wish lists: adding books To wishlist, searching and filtering the wishlist and viewing the wishlist.
+- Feedback: Rating system, comments system, report feature.
 - Book search and filters
 - Two-way and three-way book exchanges
 
