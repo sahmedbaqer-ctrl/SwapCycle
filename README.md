@@ -11,15 +11,15 @@ Fall 2026
 
 ## Team Members
 - Scrum Master: Sayed Ali
-- Development Team: Amir, Kareem, Sayed Ahmed, Sayed Mohammed,Yousif
+- Development Team: Amir, Kareem, Sayed Ahmed, Sayed Mohammed, Yousef
 
 ## Main Features
 - Accounts: Creating and managing user accounts, logging in and out, editing profile information, and viewing other users' profiles.
-- Book Listings: Listing physical books by Title, Author & Contributors,Genre, and Availability.
+- Physical Book Listings: Listing physical books by Title, Author & Contributors, Genre, and Availability.
 - Wishlists: adding books To wishlist, searching and filtering the wishlist and viewing the wishlist.
 - Feedback/User-Rating: Rating system, comments system, report feature.
 - Search & Filter: Searching books by title, author, and genre, filtering books by genre, condition, and availability, and sorting search results by newest listings or popularity.
-- In-App Communication: Scheduling meetups with other users, sending and receiving messages, viewing conversation history, and receiving notifications about meetup confirmations, rescheduling, or cancellations.
+- In-App Communication & Meeting Arrangement: Scheduling meetups with other users, sending and receiving messages, viewing conversation history, and receiving notifications about meetup confirmations, rescheduling, or cancellations.
 - Direct Exchanges: Requesting book exchanges, proposing meetup dates, times, and locations, and reviewing, accepting, or rejecting exchange offers.
 - Completion Confirmation: Marking exchanges as completed, confirming book receipts, tracking exchange statuses, and reporting problems with exchanges.
 
