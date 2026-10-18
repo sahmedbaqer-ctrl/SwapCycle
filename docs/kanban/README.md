@@ -20,7 +20,15 @@ Tool used: Jira (moved from a Kanban board in Meeting 4)
 Screenshots should clearly show task titles and their status.
 The team should update the board regularly as work progresses.
 
-## Sprint 1 Snapshots
+## Whiteboard (physical board)
+Before moving to Jira the team planned on the classroom whiteboard. Photos from the meetings:
+
+| Meeting 3 – 8 Oct | Meeting 4 – 11 Oct | Meeting 5 – 13 Oct |
+|---|---|---|
+| ![](whiteboard/2026-10-08-meeting3-features-and-tasks.jpg) | ![](whiteboard/2026-10-11-meeting4-feature-owners.jpg) | ![](whiteboard/2026-10-13-meeting5-new-tasks.jpg) |
+| Core features listed; project tasks assigned (Kanban & minutes, GitHub, requirements, initial design) | Feature owners assigned; decision to move the Kanban board to Jira | Requirement and diagram tasks assigned with a 15 Oct due date; Jira backlog → epic → story workflow explained |
+
+## Sprint 1 Snapshots (Jira)
 
 ### Beginning – 13 October 2026
 The 8 user-story tasks in To Do. **Reconstructed from Jira created/resolved dates**; no screenshot was taken that day.
