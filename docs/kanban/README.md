@@ -28,13 +28,6 @@ Before moving to Jira the team planned on the classroom whiteboard. Sayed Ali dr
 | ![](whiteboard/2026-10-08-meeting3-features-and-tasks.jpg) | ![](whiteboard/2026-10-11-meeting4-feature-owners.jpg) | ![](whiteboard/2026-10-13-meeting5-new-tasks.jpg) |
 | Core features listed; project tasks assigned (Kanban & minutes, GitHub, requirements, initial design) | Feature owners assigned; decision to move the Kanban board to Jira | Requirement and diagram tasks assigned with a 15 Oct due date; Jira backlog → epic → story workflow explained |
 
-## Jira screenshots – 13 October 2026
-Screenshots taken while the user stories were being entered into the Jira backlog.
-
-| Adding stories to the sprint | Accounts stories in the backlog |
-|---|---|
-| ![](jira/2026-10-13-backlog-adding-stories.png) | ![](jira/2026-10-13-backlog-accounts-stories.png) |
-
 ## Sprint 1 Snapshots (Jira)
 
 ### Beginning – 13 October 2026
