@@ -11,7 +11,7 @@ Fall 2026
 
 ## Team Members
 - Scrum Master: Sayed Ali
-- Development Team: 
+- Development Team: Amir, Kareem, Sayed Ahmed, Sayed Mohammed,Yousif
 
 ## Main Features
 - Reader accounts and profiles
